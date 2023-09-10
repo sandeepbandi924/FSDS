@@ -1,0 +1,60 @@
+2023-03-24 10:16:17,826 DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-03-24 10:16:17,933 DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-03-24 10:16:31,404 DEBUG diff parser start
+2023-03-24 10:16:31,405 DEBUG line_lengths old: 1; new: 1
+2023-03-24 10:16:31,405 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-03-24 10:16:31,405 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-03-24 10:16:31,405 DEBUG diff parser end
+2023-03-24 10:16:42,091 DEBUG diff parser start
+2023-03-24 10:16:42,092 DEBUG line_lengths old: 1; new: 1
+2023-03-24 10:16:42,092 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-03-24 10:16:42,092 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-03-24 10:16:42,092 DEBUG diff parser end
+2023-03-24 10:16:52,825 INFO This is a start of search operation 
+2023-03-24 10:17:05,086 INFO This is a start of search operation 
+2023-03-24 10:17:05,086 ERROR Error occured
+2023-03-24 10:17:05,086 ERROR 'ListSearch' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/tmp/ipykernel_6656/692863010.py", line 12, in search
+    for i in range(len(self.value)):
+AttributeError: 'ListSearch' object has no attribute 'value'
+2023-03-24 10:17:55,756 INFO This is a start of search operation 
+2023-03-24 10:17:55,757 INFO successful search
+2023-03-24 10:18:12,878 INFO This is a start of search operation 
+2023-03-24 10:18:12,878 INFO successful search
+2023-03-24 10:19:25,806 INFO This is a start of search operation 
+2023-03-24 10:19:25,806 INFO successful search
+2023-03-24 10:20:12,683 INFO This is a start of search operation 
+2023-03-24 10:20:12,683 INFO successful search
+2023-03-24 10:20:50,547 INFO This is a start of search operation 
+2023-03-24 10:20:50,548 INFO successful search
+2023-03-24 10:29:46,639 DEBUG diff parser start
+2023-03-24 10:29:46,639 DEBUG line_lengths old: 1; new: 9
+2023-03-24 10:29:46,639 DEBUG -> code[replace] old[1:1] new[1:9]
+2023-03-24 10:29:46,641 DEBUG parse_part from 1 to 9 (to 8 in part parser)
+2023-03-24 10:29:46,641 DEBUG diff parser end
+2023-03-24 10:29:46,676 DEBUG pickle loaded: /opt/conda/lib/python3.10/typing.py
+2023-03-24 10:29:46,688 DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2023-03-24 10:33:48,901 DEBUG diff parser start
+2023-03-24 10:33:48,902 DEBUG line_lengths old: 9; new: 1
+2023-03-24 10:33:48,902 DEBUG -> code[replace] old[1:9] new[1:1]
+2023-03-24 10:33:48,903 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-03-24 10:33:48,903 DEBUG diff parser end
+2023-03-24 10:33:49,093 DEBUG diff parser start
+2023-03-24 10:33:49,093 DEBUG line_lengths old: 1; new: 1
+2023-03-24 10:33:49,093 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-03-24 10:33:49,093 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-03-24 10:33:49,094 DEBUG diff parser end
+2023-03-24 10:34:32,309 DEBUG diff parser start
+2023-03-24 10:34:32,309 DEBUG line_lengths old: 1; new: 1
+2023-03-24 10:34:32,309 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-03-24 10:34:32,309 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-03-24 10:34:32,310 DEBUG diff parser end
+2023-03-24 10:35:15,687 INFO checking try block
+2023-03-24 10:35:15,688 INFO New element is added
+2023-03-24 10:35:15,688 INFO {'k1': 'sand', 'k2': 'kumar', 'k3': 924, 'k4': 1234, 'k5': 'Summi'}
+2023-03-24 10:35:43,916 INFO This is a start of search operation 
+2023-03-24 10:35:43,917 INFO successful search
+2023-03-24 10:35:45,619 INFO checking try block
+2023-03-24 10:35:45,621 INFO New element is added
+2023-03-24 10:35:45,622 INFO {'k1': 'sand', 'k2': 'kumar', 'k3': 924, 'k4': 1234, 'k5': 'Summi'}
