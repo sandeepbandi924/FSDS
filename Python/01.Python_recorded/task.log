@@ -1,0 +1,32 @@
+2023-03-24 10:37:55,407 INFO This is a start of search operation 
+2023-03-24 10:37:55,409 INFO successful search
+2023-03-24 10:38:35,529 INFO checking try block
+2023-03-24 10:38:35,529 INFO New element is added
+2023-03-24 10:38:35,530 INFO {'k1': 'sand', 'k2': 'kumar', 'k3': 924, 'k4': 1234, 'k5': 'Summi'}
+2023-03-24 10:39:11,331 INFO checking try block
+2023-03-24 10:39:11,331 INFO Enter dictionary value
+2023-03-24 10:40:18,864 INFO checking try block
+2023-03-24 10:40:18,866 INFO New element is added
+2023-03-24 10:40:18,867 INFO {'k1': 'sand', 'k2': 'kumar', 'k3': 924, 'k4': 1234, 'k5': 'Summi'}
+2023-03-24 10:40:19,504 INFO checking try block
+2023-03-24 10:40:19,505 INFO Kindly enter dictionary value only
+2023-03-24 10:49:34,343 DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-03-24 10:49:34,461 DEBUG pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-03-24 10:50:02,669 DEBUG diff parser start
+2023-03-24 10:50:02,671 DEBUG line_lengths old: 1; new: 1
+2023-03-24 10:50:02,672 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-03-24 10:50:02,673 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-03-24 10:50:02,674 DEBUG diff parser end
+2023-03-24 10:50:05,603 DEBUG diff parser start
+2023-03-24 10:50:05,604 DEBUG line_lengths old: 1; new: 1
+2023-03-24 10:50:05,604 DEBUG -> code[replace] old[1:1] new[1:1]
+2023-03-24 10:50:05,605 DEBUG parse_part from 1 to 1 (to 0 in part parser)
+2023-03-24 10:50:05,606 DEBUG diff parser end
+2023-03-24 10:50:17,725 INFO entering try block
+2023-03-24 10:50:17,727 INFO Data extracted (4, 5, 6, 7) 
+2023-03-24 10:51:27,956 INFO entering try block
+2023-03-24 10:51:27,958 INFO Data extracted (4, 5, 6, 7, 'sand', 'kumar', 45, 68, 97, 352) 
+2023-03-24 10:51:38,139 INFO entering try block
+2023-03-24 10:51:38,139 INFO Data extracted () 
+2023-03-24 10:52:11,210 INFO entering try block
+2023-03-24 10:52:11,211 INFO Data extracted (4, 5, 6) 
