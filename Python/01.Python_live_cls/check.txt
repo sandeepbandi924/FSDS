@@ -1,0 +1,6 @@
+check Number:455
+Sales tax:6
+Sub Total:2500.0
+Total bill: 2650.0
+table Number:2
+Server name:Sandeep

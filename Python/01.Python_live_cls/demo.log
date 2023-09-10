@@ -1,0 +1,12 @@
+DEBUG:root:check for name is alphabet
+DEBUG:root:check for full name
+DEBUG:root:Failed all checks
+DEBUG:root:check for name is alphabet
+DEBUG:root:check for full name
+DEBUG:root:Failed all checks
+DEBUG:root:check for name is alphabet
+DEBUG:root:check for full name
+DEBUG:root:Failed all checks
+2023-07-24 09:07:24,013 - DEBUG - check for name is alphabet
+2023-07-24 09:07:24,780 - DEBUG - check for full name
+2023-07-24 09:07:25,356 - DEBUG - Failed all checks
